@@ -12,6 +12,7 @@ The repo contains the code to an image classification pipeline used for cancer d
 7. Update the pipeline
 8. Update the main.py
 9. Update the dvc.yaml
+810973536410.dkr.ecr.eu-central-1.amazonaws.com/kidney
 
 
 
